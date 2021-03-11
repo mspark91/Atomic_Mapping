@@ -1,6 +1,6 @@
 # Atomic_Mapping
 
-### 1. Executable file "atomic_mapping_fmcs_limited.exe" 
+### 1. Executable file "atomic_mapping_fmcs_limited.exe" (compiled at linux centos)
 ####    -> only work for "1 reactant to 1 product" reaction SMILES with string length of 100 and 101 (limited version is provided for only test purpose)
 #
 ### 2. Test input file "reaction_SMILES.txt" (263 reaction SMILES)
